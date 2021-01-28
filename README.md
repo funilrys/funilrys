@@ -2,21 +2,24 @@
 
 <p align="center">I am - <i>mostly</i> - known as <b>Funilrys</b>.</p>
 
-<p align="center">I am <b>23</b> and I live in <b>Saarbrücken, SL, Germany</b>.</p>
+<p align="center">I am <b>23</b> and I live around <b>Saarbrücken, SL, Germany</b>.</p>
 
 <p align="center"><b>I speak</b> :gb::de::fr:.</p>
 
-<p align="center"><b>I am interested</b> in the <b>DevOps culture</b>, its implementation and problematic. I am also into everything related to <b>backend development</b> or <b>BackendDev</b> if you prefer. You may notice that my frontend skills are not the best. But I'm still trying to improve my frontend development skills :smile_cat:. I'm trying to add <a href="https://vuejs.org/">Vue.js</a> into my knowledge!</p>
+<p align="center"><b>I am interested</b> in the <b>DevOps culture</b>, its implementation and problematic. I am also into everything related to <b>backend development</b> or <b>BackendDev</b> if you prefer. You may notice that my frontend skills are not the best. But I am still trying to improve my frontend development skills :smile_cat:. I am trying to add <a href="https://vuejs.org/">Vue.js</a> into my knowledge!</p>
 
 <p align="center"><b>I am an Autodidact</b>, I like to build and learn new thing by breaking, repairing and/or doing.</p>
 
 <p align="center"><b>I am a Linux power-user</b>. I spend some of my time trying to break some distributions to better understand them. My favorite distribution is <b>Arch Linux</b>. I installed my first Arch Linux at the age of 13 and since then, never really left it. Since recently, I try to learn and master some of the <b>Debian</b> specific knowledge. Debian will never be my main distribution because I tend to prefer rolling-release (oriented) distributions but I want to be able to master some of its specificities for work.</p>
 
-<p align="center"><b>I am an Open Source optimist and developer</b>, I believe that Open Source is a big part of our lives even if we don't necessarily see it.
+<p align="center"><b>I am an Open Source optimist</b>, I believe that Open Source is a big part of our lives even if we don't necessarily see it.  I believe that building things together makes us, our infrastructures, and our software stronger. 
 Non-Tech people don't necessarily get the impact of Open Source in their lives but I hope that it will change one day. I try to contribute to changing the POV of Open Source project(s) and communities in my environment and little level.</p>
+
+<p align="center"><b>I am an Open Source developer</b>, I spend some of my free time developing, contributing, or discussing projects that I created or interested in. Most of the projects I wrote are the result of problems or ideas I had at one point. They just happened to be published in the hope to help others who may meet the same problem as me in the past. Some are successful, some not, and some only useful to a niche. But, that's what makes our communities so fun and stronger. At some point, people with the same problem, idea, or direction work together to build something useful not only to themselves but possibly to others too.</p>
 
 <p align="center"><b>Open Source projects, my contributions, engagement, and the discussions I have or had around them changed my life.</b> It opened my mind, created friendships. and increased my confidence and the judgment I have of my code.
 Indeed, before I discovered the Open Source community I was coding alone on projects nobody will hear of. Open Source and especially this platform made me go where I never tried to go before. Whether it is professionally or personally.</p>
+
 
 ---
 
