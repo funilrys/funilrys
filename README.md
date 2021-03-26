@@ -46,21 +46,22 @@ Indeed, before I discovered the Open Source community I was coding alone on proj
 </p>
 
 <p align="center">
+<a href="https://github.com/PyFunceble/adblock-decoder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PyFunceble&amp;repo=adblock-decoder&amp;theme=gruvbox&amp;show_owner=true" alt="PyTravisCI"></a>
 <a href="https://github.com/PyFunceble/user_agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PyFunceble&amp;repo=user_agents&amp;theme=gruvbox&amp;show_owner=true" alt="Funceble"></a>
+</p>
+
+<p align="center">
 <a href="https://github.com/funilrys/dead-hosts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=funilrys&amp;repo=dead-hosts&amp;theme=gruvbox&amp;show_owner=true" alt="dead-hosts"></a>
-</p>
-
-<p align="center">
 <a href="https://github.com/dead-hosts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dead-hosts&amp;repo=dev-center&amp;theme=gruvbox&amp;show_owner=true" alt="Dead-Hosts Organization"></a>
+</p>
+
+<p align="center">
 <a href="https://github.com/funilrys/organize-multimedia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=funilrys&amp;repo=organize-multimedia&amp;theme=gruvbox&amp;show_owner=true" alt="Organize Multimedia"></a>
-</p>
-
-<p align="center">
 <a href="https://github.com/funilrys/hosts2iptables"><img src="https://github-readme-stats.vercel.app/api/pin/?username=funilrys&amp;repo=hosts2iptables&amp;theme=gruvbox&amp;show_owner=true" alt="Hosts to Iptables"></a>
-<a href="https://github.com/funilrys/funombi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=funilrys&amp;repo=funombi&amp;theme=gruvbox&amp;show_owner=true" alt="Funombi"></a>
 </p>
 
 <p align="center">
+<a href="https://github.com/funilrys/funombi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=funilrys&amp;repo=funombi&amp;theme=gruvbox&amp;show_owner=true" alt="Funombi"></a>
 <a href="https://github.com/funilrys/A-John-Shots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=funilrys&amp;repo=A-John-Shots&amp;theme=gruvbox&amp;show_owner=true" alt="A John Shots"></a>
 </p>
 
