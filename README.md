@@ -176,12 +176,6 @@
             alt="Top Funilrys&#39;s Languages"
         >
     </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img
-            src="https://github-readme-streak-stats.herokuapp.com?user=funilrys&amp;theme=radical&amp;date_format=M%20j%5B%2C%20Y%5D"
-            alt="Funilrys&#39;s Current Streak"
-        >
-    </a>
 </p>
 
 ---
@@ -347,7 +341,7 @@
     <a href="https://github.com/mitchellkrogza/Phishing.Database">
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=mitchellkrogza&amp;repo=Phishing.Database&amp;theme=radical&amp;show_owner=true"
-            alt="A highly integrated music player."
+            alt="The Phishing Database."
         >
     </a>
 </p>
