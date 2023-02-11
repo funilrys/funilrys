@@ -318,71 +318,80 @@
 </p>
 
 <p align="center">
+    <a href="https://github.com/meilisearch/meilisearch">
+        <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=meilisearch&repo=meilisearch&theme=radical&show_owner=true"
+            alt="meilisearch"
+        >
+    </a>
     <a href="https://github.com/StevenBlack/hosts">
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=StevenBlack&repo=hosts&theme=radical&show_owner=true"
             alt="Steven Black's Hosts"
         >
     </a>
+</p>
+
+<p align="center">
     <a href="https://github.com/ColorlibHQ/gentelella">
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=ColorlibHQ&repo=gentelella&theme=radical&show_owner=true"
             alt="Steven Black's Hosts"
         >
     </a>
-</p>
-
-<p align="center">
     <a href="https://github.com/EragonJ/Kaku">
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=EragonJ&repo=Kaku&theme=radical&show_owner=true"
             alt="A highly integrated music player."
         >
     </a>
+</p>
+
+<p align="center">
     <a href="https://github.com/mitchellkrogza/Phishing.Database">
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=mitchellkrogza&repo=Phishing.Database&theme=radical&show_owner=true"
             alt="The Phishing Database."
         >
     </a>
-</p>
-
-<p align="center">
     <a href="https://github.com/Laverna/laverna">
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=laverna&repo=laverna&theme=radical&show_owner=true"
             alt="A note taking application."
         >
     </a>
+</p>
+
+<p align="center">
     <a href="https://github.com/encryptic-team/encryptic">
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=encryptic-team&repo=encryptic&theme=radical&show_owner=true" alt="Encryptic: A secure note taking application."
         >
     </a>
-</p>
-
-<p align="center">
     <a href="https://github.com/crflynn/pypistats.org">
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=crflynn&repo=pypistats.org&theme=radical&show_owner=true"
             alt="PyPI downloads analytics dashboard"
         >
     </a>
+</p>
+
+<p align="center">
     <a href="https://github.com/EFForg/badger-sett">
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=EFForg&repo=badger-sett&theme=radical&show_owner=true"
             alt="EFForg's Badger Sett"
         >
     </a>
-</p>
-
-<p align="center">
     <a href="https://github.com/getgrav/grav-plugin-bootstrapper">
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=getgrav&repo=grav-plugin-bootstrapper&theme=radical&show_owner=true"
             alt="Grav Bootstrapper Plugin"
         >
     </a>
+</p>
+
+<p align="center">
     <a href="https://github.com/Nebulius/grav-plugin-static-social-embeds">
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=Nebulius&repo=grav-plugin-static-social-embeds&theme=radical&show_owner=false"
