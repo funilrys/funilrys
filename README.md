@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-    I am <b>25</b> and I live around <b>Saarbrücken, SL, Germany</b>.
+    I am <b>26</b> and I live around <b>Saarbrücken, SL, Germany</b>.
 </p>
 
 <p align="center">
@@ -113,21 +113,21 @@
             alt="Follow Me on Instagram"
         >
     </a>
-    <a href="https://keybase.io/funilrys/chat">
+    <a href="https://matrix.to/#/@funilrys:matrix.org">
         <img
-            src="https://img.shields.io/badge/Keybase-Funilrys-2a8?style=for-the-badge&logo=keybase&logoColor=white&color=gold"
+            src="https://img.shields.io/badge/Element-Funilrys-2a8?style=for-the-badge&logo=element&logoColor=0DBD8B&color=0DBD8B"
+            alt="Chat with me"
+        >
+    </a>
+     <a href="https://discordapp.com/users/896465875710930945">
+        <img
+            src="https://img.shields.io/static/v1?color=7289DA&logo=discord&label=Discord&message=Funilrys&style=for-the-badge"
             alt="Chat with me"
         >
     </a>
     <a href="https://t.me/funilrys">
         <img
             src="https://img.shields.io/static/v1?color=26A5E4&logo=telegram&label=Telegram&message=Funilrys&style=for-the-badge"
-            alt="Chat with me"
-        >
-    </a>
-    <a href="https://matrix.to/#/@funilrys:matrix.org">
-        <img
-            src="https://img.shields.io/badge/Element-Funilrys-2a8?style=for-the-badge&logo=element&logoColor=0DBD8B&color=0DBD8B"
             alt="Chat with me"
         >
     </a>
