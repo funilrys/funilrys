@@ -101,24 +101,24 @@
             src="https://img.shields.io/keybase/pgp/funilrys?label=PGP&style=for-the-badge&logo=gnuprivacyguard"
         >
     </a>
-    <a href="https://twitter.com/funilrys">
+    <!-- <a href="https://twitter.com/funilrys">
         <img
             alt="Twitter Follow"
             src="https://img.shields.io/twitter/follow/funilrys?color=1DA1F2&logo=twitter&label=Twitter&style=for-the-badge"
         >
-    </a>
+    </a> -->
     <a href="https://instagram.com/fun.ilrys">
         <img
             src="https://img.shields.io/static/v1?color=E4405F&logo=instagram&label=Instagram&message=fun.ilrys&style=for-the-badge"
             alt="Follow Me on Instagram"
         >
     </a>
-    <a href="https://matrix.to/#/@funilrys:matrix.org">
+    <!-- <a href="https://matrix.to/#/@funilrys:matrix.org">
         <img
             src="https://img.shields.io/badge/Element-Funilrys-2a8?style=for-the-badge&logo=element&logoColor=0DBD8B&color=0DBD8B"
             alt="Chat with me"
         >
-    </a>
+    </a> -->
      <a href="https://discordapp.com/users/896465875710930945">
         <img
             src="https://img.shields.io/static/v1?color=7289DA&logo=discord&label=Discord&message=Funilrys&style=for-the-badge"
@@ -175,18 +175,6 @@
         <img
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=funilrys&langs_count=50&theme=radical&show_icons=true&include_all_commits=true&layout=compact"
             alt="Top Funilrys&#39;s Languages"
-        >
-    </a>
-</p>
-
----
-
-<p align="center">
-   <a href="https://github.com/kittinan/spotify-github-profile">
-        <img
-            height="200"
-            src="https://spotify-github-profile.vercel.app/api/view?uid=31reclwfx3s5qxtwmjig2v23mihm&cover_image=true&theme=compact"
-            alt="Currently listening"
         >
     </a>
 </p>
