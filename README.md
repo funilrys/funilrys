@@ -89,24 +89,43 @@
             src="https://img.shields.io/badge/Sponsor-Funilrys-2a8?style=for-the-badge&logo=github-sponsors&logoColor=EA4AAA&color=EA4AAA" alt="Sponsor me"
         >
     </a>
+</p>
+
+<h2 align="center">
+    :incoming_envelope: Contact :incoming_envelope:
+</h2>
+
+<p align="center">
     <a href="https://mailhide.io/e/mwmMLRu6">
         <img
             src="https://img.shields.io/badge/Email-Funilrys-2a8?style=for-the-badge&logo=gmail&logoColor=white"
             alt="E-Mail Me"
         >
     </a>
-    <a href="https://keybase.io/funilrys/pgp_keys.asc?fingerprint=95e844373b327c12253ec6e30d8bfef5515c00c6">
+    <a href="https://github.com/funilrys.gpg">
         <img
-            alt="Keybase PGP"
-            src="https://img.shields.io/keybase/pgp/funilrys?label=PGP&style=for-the-badge&logo=gnuprivacyguard"
+            alt="GPG"
+            src="https://img.shields.io/keybase/pgp/funilrys?label=gpg&style=for-the-badge&logo=gnuprivacyguard"
         >
     </a>
-    <!-- <a href="https://twitter.com/funilrys">
+    <a href="https://discordapp.com/users/896465875710930945">
+        <img
+            src="https://img.shields.io/static/v1?color=7289DA&logo=discord&label=Discord&message=Funilrys&style=for-the-badge"
+            alt="Chat with me"
+        >
+    </a>
+    <a href="https://simplex.chat/contact#/?v=2-6&smp=smp%3A%2F%2Fh--vW7ZSkXPeOUpfxlFGgauQmXNFOzGoizak7Ult7cw%3D%40smp15.simplex.im%2F-6q3xjlyt0ToLecdjqVVl8tWzzipmaMQ%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAp94tl53_hXvyVYimu9tinRLE39jYPZ4iiOFcwNJ1V08%253D%26srv%3Doauu4bgijybyhczbnxtlggo6hiubahmeutaqineuyy23aojpih3dajad.onion">
+        <img
+            src="https://img.shields.io/static/v1?color=7289DA&logo=simplex&label=SimpleX&message=funilrys&style=for-the-badge"
+            alt="Chat with me"
+        >
+    </a>
+    <a href="https://twitter.com/funilrys">
         <img
             alt="Twitter Follow"
-            src="https://img.shields.io/twitter/follow/funilrys?color=1DA1F2&logo=twitter&label=Twitter&style=for-the-badge"
+            src="https://img.shields.io/twitter/follow/funilrys?logo=x&label=Twitter&style=for-the-badge"
         >
-    </a> -->
+    </a>
     <a href="https://instagram.com/fun.ilrys">
         <img
             src="https://img.shields.io/static/v1?color=E4405F&logo=instagram&label=Instagram&message=fun.ilrys&style=for-the-badge"
@@ -119,18 +138,6 @@
             alt="Chat with me"
         >
     </a> -->
-     <a href="https://discordapp.com/users/896465875710930945">
-        <img
-            src="https://img.shields.io/static/v1?color=7289DA&logo=discord&label=Discord&message=Funilrys&style=for-the-badge"
-            alt="Chat with me"
-        >
-    </a>
-    <a href="https://t.me/funilrys">
-        <img
-            src="https://img.shields.io/static/v1?color=26A5E4&logo=telegram&label=Telegram&message=Funilrys&style=for-the-badge"
-            alt="Chat with me"
-        >
-    </a>
 </p>
 
 ---
