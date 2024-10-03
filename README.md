@@ -2,10 +2,19 @@
     Hi there, I'm Nissar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     <br/>
     <a href="https://git.io/typing-svg">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?color=%23F77C15&duration=3000&center=true&width=500&lines=%F0%9F%91%93+Always+learning+things.+%F0%9F%91%93;%F0%9F%A7%B1+Always+breaking+things.+%F0%9F%A7%B1;%F0%9F%9B%A0%EF%B8%8F+Always+repairing+things.+%F0%9F%9B%A0%EF%B8%8F;%F0%9F%93%9A+Autodidact.+%F0%9F%93%9A;%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+Linux+Power+user.+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;%F0%9F%9A%80+Backend+Developer.+%F0%9F%9A%80;%F0%9F%93%A1+Open+Source+Optimist.+%F0%9F%93%A1;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Open+Source+Developer.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB"
-            alt="Funilrys in a few words"
-        >
+        <!--
+        📡 Open Source Optimist. 📡
+        👨‍💻 Open Source Developer. 👨‍💻
+        💡 Open Source Founder. 💡
+        📚 Autodidact. 📚
+        🧙‍♂️ Linux Power user. 🧙‍♂️
+        🚀 Backend Developer. 🚀
+        🥷 Infra, Dev & Ops Ninja. 🥷
+        👓 Always learning things. 👓
+        🧱 Always breaking things. 🧱
+        🛠️ Always repairing things. 🛠️
+        -->
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=F77C15&center=true&random=true&width=500&lines=%F0%9F%93%A1+Open+Source+Optimist.+%F0%9F%93%A1;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Open+Source+Developer.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%92%A1+Open+Source+Founder.+%F0%9F%92%A1;%F0%9F%93%9A+Autodidact.+%F0%9F%93%9A;%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+Linux+Power+user.+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;%F0%9F%9A%80+Backend+Developer.+%F0%9F%9A%80;%F0%9F%A5%B7+Infra%2C+Dev+%26+Ops+Ninja.+%F0%9F%A5%B7;%F0%9F%91%93+Always+learning+things.+%F0%9F%91%93;%F0%9F%A7%B1+Always+breaking+things.+%F0%9F%A7%B1;%F0%9F%9B%A0%EF%B8%8F+Always+repairing+things.+%F0%9F%9B%A0%EF%B8%8F" alt="Funilrys in a few words" /></a>
     </a>
 </h1>
 
@@ -23,13 +32,8 @@
 </p>
 
 <p align="center">
-    <b>I am interested</b> in the <b>DevOps culture</b>, its implementation and
-    problematic.
-    I am also into everything related to <b>backend development</b> or
-    <b>BackendDev</b> if you prefer. You may notice that my frontend skills
-    are not the best. But I am still trying to improve my frontend development
-    skills :smile_cat:. I am trying to add <a href="https://vuejs.org/">Vue.js</a>
-    into my knowledge!
+    <b>I am interested</b> in everything around <b>infrastructure</b>, <b>the DevOps culture</b>, <b>backend development</b> and a little bit of <b>frontend development</b>; their implementations, problematics and solutions - that are not necessarly cloud-centric - are what I'm almost always look into. I often consider myself as a <b>Infra, Dev & Ops Ninja :ninja:</b>.
+    In my toolbox you will find <b>Shell</b>, <b>Python</b>, <b>Ansible</b>, <b>Terraform</b>, <b>Docker</b>, <b>Kubernetes</b>, <b>Linux</b> <i>(btw, I use arch!)</i>, <b>Git</b>, <b>vim</b>, since recently <b>Vue.js</b>, <b>Rust</b>, and a lot more.
 </p>
 
 <p align="center">
@@ -60,7 +64,7 @@
 </p>
 
 <p align="center">
-    <b>I am an Open Source developer</b>, I spend some of my free time
+    <b>I am an Open Source developer and founder</b>, I spend some of my free time
     developing, contributing, or discussing projects that I created or
     interested in. Most of the projects I wrote are the result of problems or
     ideas I had at one point. They just happened to be published in the hope
@@ -114,9 +118,9 @@
             alt="Chat with me"
         >
     </a>
-    <a href="https://simplex.chat/contact#/?v=2-6&smp=smp%3A%2F%2Fh--vW7ZSkXPeOUpfxlFGgauQmXNFOzGoizak7Ult7cw%3D%40smp15.simplex.im%2F-6q3xjlyt0ToLecdjqVVl8tWzzipmaMQ%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAp94tl53_hXvyVYimu9tinRLE39jYPZ4iiOFcwNJ1V08%253D%26srv%3Doauu4bgijybyhczbnxtlggo6hiubahmeutaqineuyy23aojpih3dajad.onion">
+    <a href="https://matrix.to/#/@funilrys:matrix.org">
         <img
-            src="https://img.shields.io/static/v1?color=7289DA&logo=simplex&label=SimpleX&message=funilrys&style=for-the-badge"
+            src="https://img.shields.io/badge/Element-Funilrys-2a8?style=for-the-badge&logo=element&logoColor=0DBD8B&color=0DBD8B"
             alt="Chat with me"
         >
     </a>
@@ -132,12 +136,7 @@
             alt="Follow Me on Instagram"
         >
     </a>
-    <!-- <a href="https://matrix.to/#/@funilrys:matrix.org">
-        <img
-            src="https://img.shields.io/badge/Element-Funilrys-2a8?style=for-the-badge&logo=element&logoColor=0DBD8B&color=0DBD8B"
-            alt="Chat with me"
-        >
-    </a> -->
+
 </p>
 
 ---
@@ -189,7 +188,7 @@
 ---
 
 <h2 align="center">
-    Projects I authored
+    Projects I authored or co-authored
 </h2>
 
 <p align="center">
