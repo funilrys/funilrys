@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-    <b>I am interested</b> in everything around <b>infrastructure</b>, <b>the DevOps culture</b>, <b>backend development</b> and a little bit of <b>frontend development</b>; their implementations, problematics and solutions - that are not necessarly cloud-centric - are what I'm almost always look into. I often consider myself as a <b>Infra, Dev & Ops Ninja :ninja:</b>.
+    <b>I am interested</b> in everything around <b>infrastructure</b>, <b>the DevOps culture</b>, <b>backend development</b> and a little bit of <b>frontend development</b>; their implementations, problematics and solutions - that are not necessarly cloud-centric. I often consider myself as a <b>Infra, Dev & Ops Ninja :ninja:</b>.
     In my toolbox you will find <b>Shell</b>, <b>Python</b>, <b>Ansible</b>, <b>Terraform</b>, <b>Docker</b>, <b>Kubernetes</b>, <b>Linux</b> <i>(btw, I use arch!)</i>, <b>Git</b>, <b>vim</b>, since recently <b>Vue.js</b>, <b>Rust</b>, and a lot more.
 </p>
 
