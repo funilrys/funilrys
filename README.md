@@ -18,13 +18,12 @@
     </a>
 </h1>
 
-
 <p align="center">
     I am - <i>mostly</i> - known as <b>Funilrys</b> or <b>Fun Ilrys</b>.
 </p>
 
 <p align="center">
-    I am <b>26</b> and I live around <b>Saarbrücken, SL, Germany</b>.
+    I am <b>27</b> and I live around <b>Saarbrücken, SL, Germany</b>.
 </p>
 
 <p align="center">
@@ -83,7 +82,6 @@
     projects nobody will hear of. Open Source and especially this platform made
     me go where I never tried to go before. Whether it is professionally or personally.
 </p>
-
 
 ---
 
@@ -211,88 +209,31 @@
 </p>
 
 <p align="center">
+    <a href="https://github.com/mitchellkrogza/Phishing.Database">
+        <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=mitchellkrogza&repo=Phishing.Database&theme=radical&show_owner=false"
+            alt="The Phishing Database."
+        >
+    </a>
     <a href="https://github.com/funilrys/PyFunceble">
         <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=funilrys&repo=PyFunceble&theme=radical&show_owner=true"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=funilrys&repo=PyFunceble&theme=radical&show_owner=false"
             alt="PyFunceble"
         >
-    </a>
-    <a href="https://github.com/funilrys/Funceble">
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=funilrys&repo=Funceble&theme=radical&show_owner=true"
-            alt="Funceble"
-        >
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/funilrys/PyTravisCI">
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=funilrys&repo=PyTravisCI&theme=radical&show_owner=true"
-            alt="PyTravisCI">
-        </a>
-    <a href="https://github.com/PyFunceble/domain2idna">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyFunceble&repo=domain2idna&theme=radical&show_owner=true"
-        alt="domain2idna">
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/PyFunceble/adblock-decoder">
         <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=PyFunceble&repo=adblock-decoder&theme=radical&show_owner=true"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=PyFunceble&repo=adblock-decoder&theme=radical&show_owner=false"
             alt="PyTravisCI"
         >
     </a>
     <a href="https://github.com/PyFunceble/user_agent">
         <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=PyFunceble&repo=user_agents&theme=radical&show_owner=true"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=PyFunceble&repo=user_agents&theme=radical&show_owner=false"
             alt="Funceble"
-        >
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/funilrys/dead-hosts">
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=funilrys&repo=dead-hosts&theme=radical&show_owner=true"
-            alt="dead-hosts"
-        >
-    </a>
-    <a href="https://github.com/dead-hosts">
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=dead-hosts&repo=dev-center&theme=radical&show_owner=true"
-            alt="Dead-Hosts Organization"
-        >
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/funilrys/organize-multimedia">
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=funilrys&repo=organize-multimedia&theme=radical&show_owner=true"
-            alt="Organize Multimedia"
-        >
-    </a>
-    <a href="https://github.com/funilrys/hosts2iptables">
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=funilrys&repo=hosts2iptables&theme=radical&show_owner=true"
-            alt="Hosts to Iptables"
-        >
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/funilrys/funombi">
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=funilrys&repo=funombi&theme=radical&show_owner=true"
-            alt="Funombi"
-        >
-    </a>
-    <a href="https://github.com/funilrys/A-John-Shots">
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=funilrys&repo=A-John-Shots&theme=radical&show_owner=true"
-            alt="A John Shots"
         >
     </a>
 </p>
@@ -342,62 +283,33 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/mitchellkrogza/Phishing.Database">
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=mitchellkrogza&repo=Phishing.Database&theme=radical&show_owner=true"
-            alt="The Phishing Database."
-        >
-    </a>
     <a href="https://github.com/Laverna/laverna">
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=laverna&repo=laverna&theme=radical&show_owner=true"
             alt="A note taking application."
         >
     </a>
-</p>
-
-<p align="center">
     <a href="https://github.com/encryptic-team/encryptic">
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=encryptic-team&repo=encryptic&theme=radical&show_owner=true" alt="Encryptic: A secure note taking application."
         >
     </a>
+</p>
+
+<p align="center">
     <a href="https://github.com/crflynn/pypistats.org">
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=crflynn&repo=pypistats.org&theme=radical&show_owner=true"
             alt="PyPI downloads analytics dashboard"
         >
     </a>
-</p>
-
-<p align="center">
     <a href="https://github.com/EFForg/badger-sett">
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=EFForg&repo=badger-sett&theme=radical&show_owner=true"
             alt="EFForg's Badger Sett"
         >
     </a>
-    <a href="https://github.com/getgrav/grav-plugin-bootstrapper">
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=getgrav&repo=grav-plugin-bootstrapper&theme=radical&show_owner=true"
-            alt="Grav Bootstrapper Plugin"
-        >
-    </a>
 </p>
-
-<p align="center">
-    <a href="https://github.com/Nebulius/grav-plugin-static-social-embeds">
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=Nebulius&repo=grav-plugin-static-social-embeds&theme=radical&show_owner=false"
-            alt="Grav plugin to embed social status"
-        >
-    </a>
-</p>
-
-<p align="center">
-    And a lot more!
-</p>
-
 
 <!--
 **funilrys/funilrys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
